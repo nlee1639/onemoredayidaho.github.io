@@ -8,4 +8,5 @@
 5. Add some pictures to the images folder
 6. Create a landing page in index.md
 7. Update contact info and links
-8. Test your changes: "bundles exec jekyll serve" and browse to rowse to http://localhost:4000
+8. Add pictures and update page styling
+9. Test your changes: "bundles exec jekyll serve" and browse to rowse to http://localhost:4000
