@@ -1,5 +1,27 @@
+nav {
+  display: flex;
+  background-color: #1d4491;
+  border-bottom-style: solid; 
+  border-bottom-color: MidnightBlue;
+  border-bottom-width: 3px;;
+}
+
+nav a {
+  color: white;
+  padding: 0.5em;
+  margin: 0px;
+  text-decoration: none;
+}
+
+nav a:hover {
+	background-color: MidnightBlue;
+}
 body {
   background-color: Ivory;
+  margin: 0px;
+}
+
+article {
   margin: 30px;
 }
 
