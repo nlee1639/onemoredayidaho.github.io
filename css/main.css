@@ -3,18 +3,24 @@ nav {
   background-color: #1d4491;
   border-bottom-style: solid; 
   border-bottom-color: MidnightBlue;
-  border-bottom-width: 3px;;
+  border-bottom-width: 3px;
+  font-family: sans-serif;
 }
 
-nav a {
+nav a, nav span {
   color: white;
   padding: 0.5em;
   margin: 0px;
   text-decoration: none;
 }
 
+nav #title {
+  margin-left: auto;
+  background-color: MidnightBlue;
+}
+
 nav a:hover {
-	background-color: MidnightBlue;
+  background-color: MidnightBlue;
 }
 body {
   background-color: Ivory;
@@ -27,4 +33,13 @@ article {
 
 h1 {
   color: MidnightBlue;
+}
+
+
+footer {
+  margin-top: 10em;
+  border-top-style: solid;
+  border-top-color: MidnightBlue;
+  border-top-width: 3px;
+  text-align: center;
 }
