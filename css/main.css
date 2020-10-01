@@ -45,3 +45,21 @@ footer {
   text-align: center;
   font-size: 12px;
 }
+
+#resources a {
+  transition: 0.5s,border 0.5s,width;
+  line-height: 2;
+  text-decoration: none;
+  font-weight: bold;
+  font-family: sans-serif;
+  font-size: 3vw;
+  color: #1d4491;
+}
+
+#resources a:hover {
+  transition: 0.5s,border 0.5s,width;
+  border-bottom-color: #1d4491;
+  border-bottom-style: solid;
+  border-bottom-width: 0.25em;
+  letter-spacing: 0.05em;
+}
