@@ -9,7 +9,7 @@ nav {
 
 nav a, nav span {
   color: white;
-  padding: 0.5em;
+  padding: 1em;
   margin: 0px;
   text-decoration: none;
 }
@@ -37,9 +37,11 @@ h1 {
 
 
 footer {
+  font-family: sans-serif;
   margin-top: 10em;
   border-top-style: solid;
   border-top-color: MidnightBlue;
   border-top-width: 3px;
   text-align: center;
+  font-size: 12px;
 }
