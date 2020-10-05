@@ -22,4 +22,3 @@ Build and serve your site with:
 bundles exec jekyll serve
 ```
 Open a web browser, and type http://localhost:4000 into the URL bar
->>>>>>> upstream/master
