@@ -3,7 +3,6 @@ layout: default
 title: About
 ---
 
-=======
 “One more day.”
 
 Dave Conley, an American Legion Rider and member of Lloyd E. Hutcheson Post 113 in Meridian, Idaho, hears those three words a lot when speaking with families who have lost a veteran to suicide. The conversations always center on a wish for more time to help their loved one through the feelings of hopelessness and despair. 

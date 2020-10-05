@@ -23,6 +23,8 @@ nav a:hover {
   background-color: MidnightBlue;
 }
 body {
+  background-image: url(/img/backgroundNoDots.jpg);
+  background-size: cover;
   background-color: Ivory;
   margin: 0px;
 }
