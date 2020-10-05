@@ -1,18 +1,25 @@
 # onemoredayidaho.github.io
 
-//TODO:
-1. Look over the files in the resources folder
-2. Add a footer to \_layouts/default.html
-3. Add some pictures to the images folder
-4. Create a landing page in index.md
-5. Update contact info and links
-6. Add pictures and update page styling
-7. Finish "when modifiying..." section in README
----
+## Prerequisites
+* [**Jekyll**](https://jekyllrb.com/docs/)
 
-*When modifiying...*
+## TODO:
+* Check the resources folder for info about One More Day
+* Add a nav bar (and maybe a footer?) to _layouts/default.html. This file will be the template for every page on your site
+* Add some more pictures to the img folder
+* Create a landing page in index.md. Jekyll will combine the contents of this file with the template you defined above to create your landing page at _site/index.html
+* Build out about.md, maybe use some text from the resources folder
+* Build out contact.md. Again, someday soon we will have real contact info for Mr. COnley, but in the meantime just make something up.
+* Build out resources.md, again, fake links are fine for now. Someday this page will be full of links to resources for veterans in the Treasure Valley
+* Update page styling in /css/main.css
 
-1. Install prerequisites: "sudo apt-get install ruby-full build-essential"
-2. Install Jekyll: https://jekyllrb.com/docs/installation/ubuntu/
-3. Fork and clone this repo.
-4. Test your changes: "bundles exec jekyll serve" and browse to http://localhost:4000
+Test your changes from the project root folder. If you are one of my Web Design & Development students, that will probably look like:
+```bash
+cd ~/Desktop/onemoredayidaho.github.io
+```
+Build and serve your site with:
+```bash
+bundles exec jekyll serve
+```
+Open a web browser, and type http://localhost:4000 into the URL bar
+>>>>>>> upstream/master
