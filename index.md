@@ -2,4 +2,4 @@
 layout: default
 title: One More Day Idaho Homepage
 ---
-<h1>Homepage for One More Day ID, coming soon!</h1>  
+<h1 id="bigtitle">One More Day</h1>  

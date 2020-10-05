@@ -35,6 +35,12 @@ h1 {
   color: MidnightBlue;
 }
 
+#bigtitle {
+  font-family: sans-serif;
+  font-size: 3em;
+  text-align: center;
+
+}
 
 footer {
   font-family: sans-serif;
@@ -47,19 +53,20 @@ footer {
 }
 
 #resources a {
-  transition: 0.5s,border 0.5s,width;
+  transition: 0.5s,border 0.5s,width,padding 0.5s;
   line-height: 2;
   text-decoration: none;
   font-weight: bold;
   font-family: sans-serif;
-  font-size: 3vw;
+  font-size: 3.5em;
   color: #1d4491;
 }
 
 #resources a:hover {
-  transition: 0.5s,border 0.5s,width;
+  transition: 0.5s,border 0.5s,width,margin 0.5s;
   border-bottom-color: #1d4491;
   border-bottom-style: solid;
   border-bottom-width: 0.25em;
   letter-spacing: 0.05em;
+  margin-left: 0.25em;
 }
