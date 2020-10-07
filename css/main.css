@@ -81,7 +81,7 @@ img#rightside {
   text-decoration: none;
   font-weight: bold;
   font-family: sans-serif;
-  font-size: 3.5em;
+  font-size: 2em;
   color: #1d4491;
 }
 
@@ -91,5 +91,5 @@ img#rightside {
   border-bottom-width: 0.25em;
   letter-spacing: 0.05em;
   margin-left: 0.25em;
-  text-shadow: 2px 2px 0px black;
+  text-shadow: 1px 1px 0px black;
 }
