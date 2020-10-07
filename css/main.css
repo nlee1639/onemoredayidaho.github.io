@@ -54,8 +54,29 @@ footer {
   font-size: 12px;
 }
 
+img#bigtitle {
+  display: block;
+  width: 15em; 
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img#leftside {
+  position: absolute;
+  width: 20em;
+  right: 0;
+  margin-right: 75%;
+  
+}
+
+img#rightside {
+  position: absolute;
+  width: 20em;
+  left: 0;
+  margin-left: 75%;
+}
 #resources a {
-  transition: 0.5s,border 0.5s,width,padding 0.5s;
+  transition: all,0.5s;
   line-height: 2;
   text-decoration: none;
   font-weight: bold;
@@ -65,10 +86,10 @@ footer {
 }
 
 #resources a:hover {
-  transition: 0.5s,border 0.5s,width,margin 0.5s;
   border-bottom-color: #1d4491;
   border-bottom-style: solid;
   border-bottom-width: 0.25em;
   letter-spacing: 0.05em;
   margin-left: 0.25em;
+  text-shadow: 2px 2px 0px black;
 }

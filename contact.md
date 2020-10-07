@@ -3,6 +3,8 @@ layout: default
 title: Contact
 ---
 
+## Contacts
+
 **David Conley**  
 [david@conley.com](mailto:david@conley.com)  
 208-123-4567  

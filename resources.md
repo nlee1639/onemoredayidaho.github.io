@@ -4,6 +4,8 @@ title: Resources
 ---
 
 <div id="resources">
+  <a href="https://www.va.gov/">Veterans Affairs</a><br>
+  <a href="https://legion.org/">American Legion</a><br>
   <a href="https://www.army.mil/">Army</a><br>
   <a href="https://www.marines.mil/">Marines</a><br>
   <a href="https://www.navy.mil/">Navy</a><br>
